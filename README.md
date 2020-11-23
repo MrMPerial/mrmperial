@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Thanks for checking me out. I'm MrMPerial, owner of MPerial Web Solutions.
+## Thanks for stopping by. I'm MrMPerial, owner of MPerial Web Solutions.
 
 <!--
 **MrMPerial/mrmperial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
