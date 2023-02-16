@@ -25,7 +25,7 @@ Here at Github I manintain an array of repositories, although a good portion of 
 
   - Email - chris@csmitchell.com
   - Phone - 1-479-310-0043
-  - [Resume](https://resume.mperialwebsolutions.com)
+  - [Resume](http://resume.mperialwebsolutions.com)
   - [Freelance Website](https://mperialwebsolutions.com)
   - [Domain and Hosting Website](https://greenlithosting.com)
 
