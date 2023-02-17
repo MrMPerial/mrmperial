@@ -13,7 +13,7 @@ I guess in all reality I just love to code. 🤍
 
 In 2015, I found [FreeCodeCamp](https://freecodecamp.org) and that really changed my life, giving me a great advantage on learning more complex JS skills.
 
-Also in 2016, I attended a new program offered by the [University of Arkansas Global Campus](https://training.uark.edu) - the _IT Readiness Program_. I took the Front End class as well as the Back End class building projects with **NodeJS**. Here I was able to build a music platform for singers to upload and share their own music along with the ability to share on social media.
+In 2016, I attended a new program offered by the [University of Arkansas Global Campus](https://training.uark.edu) - the _IT Readiness Program_. I took the Front End class as well as the Back End class building projects with **NodeJS**. Here I was able to build a music platform for singers to upload and share their own music along with the ability to share on social media.
 
 One of my favorite projects has actually been one of the simplest to complete. It's a simple bash script that builds out a new templated NodeJS project ready to be worked on.
 
