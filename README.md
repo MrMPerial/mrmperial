@@ -23,8 +23,8 @@ Here at Github I manintain an array of repositories, although a good portion of 
 - 🌱 `I'm currently learning` how to record audio in through the browser. This is being handled by JavaScript.
 - 📫 `How to reach me:`
 
-  - Email - chris@csmitchell.com
-  - Phone - 1-479-310-0043
+  - Email - christopher.mitchell26@gmail.com
+  - Phone - 1-479-799-6595
   - [Resume](http://resume.mperialwebsolutions.com)
   - [Freelance Website](https://mperialwebsolutions.com)
   - [Domain and Hosting Website](https://greenlithosting.com)
