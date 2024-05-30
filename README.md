@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I'm Christopher but most people call me Chris.
+## I'm Chris.
 
-### NOTE: I am currently available for new opportunities. I'm looking for a great company that loves to innovate and build their team.
+#### NOTE: I am currently available for new opportunities.
 
 ---
 
