@@ -5,11 +5,9 @@
 
 ---
 
-Self-Taught, I started some basic coding back in 2011 with WordPress and HTML. Since then, I have worked with some great companies both as an employee as well as a freelance agent.
+Self-Taught, I started some basic coding back in 2011 with WordPress and HTML. Since then, I have worked with some great companies both as an employee as well as a freelance developer.
 
-I fell in love with JavaScript back in 2014 and have maintianed a pretty solid focus on that specifically for some time. I have recently found Ruby on Rails and as a developer that loves to get things done, I have fallen in love all over again. 😁
-
-I guess in all reality I just love to code. 🤍
+I fell in love with JavaScript back in 2014 and have maintianed a pretty solid focus on that specifically for some time.
 
 In 2015, I found [FreeCodeCamp](https://freecodecamp.org) and that really changed my life, giving me a great advantage on learning more complex JS skills.
 
@@ -17,19 +15,17 @@ In 2016, I attended a new program offered by the [University of Arkansas Global 
 
 One of my favorite projects has actually been one of the simplest to complete. It's a simple bash script that builds out a new templated NodeJS project ready to be worked on.
 
-Here at Github I manintain an array of repositories, although a good portion of them are private due to licensing. I also keep some code over at CodePen for front end specific projects and just playing around. You can view that here: https://codepen.io/MrMPerial
-
-- 🔭 `I'm currently working on` a co-authored project that may change our history. 🤯  This project is being built with Ruby on Rails.
-- 🌱 `I'm currently learning` how to record audio in through the browser. This is being handled by JavaScript.
+<!-- - 🔭 `I'm currently working on` a co-authored project that may change our history. 🤯  This project is being built with Ruby on Rails. -->
+<!-- - 🌱 `I'm currently learning` how to record audio in through the browser. This is being handled by JavaScript. -->
 - 📫 `How to reach me:`
 
   - Email - christopher.mitchell26@gmail.com
-  - Phone - 1-479-799-6595
-  - [Resume](http://resume.mperialwebsolutions.com)
-  - [Freelance Website](https://mperialwebsolutions.com)
-  - [Domain and Hosting Website](https://greenlithosting.com)
+  <!-- - Phone - 1-479-799-6595 -->
+  - [Portfolio](https://meetchrismitchell.com)
+  <!-- - [Freelance Website](https://mperialwebsolutions.com)
+  - [Domain and Hosting Website](https://greenlithosting.com) -->
 
-- ⚡ `Fun Fact` I also rap. 🎙️
+<!-- - ⚡ `Fun Fact` I also rap. 🎙️ -->
 
 ---
 
