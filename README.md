@@ -19,9 +19,9 @@ One of my favorite projects has actually been one of the simplest to complete. I
 <!-- - 🌱 `I'm currently learning` how to record audio in through the browser. This is being handled by JavaScript. -->
 - 📫 `How to reach me:`
 
-  - Email - christopher.mitchell26@gmail.com
+  - Email - chris@csmitchell.com
   <!-- - Phone - 1-479-799-6595 -->
-  - [Portfolio](https://meetchrismitchell.com)
+  <!-- - [Portfolio](https://meetchrismitchell.com) -->
   <!-- - [Freelance Website](https://mperialwebsolutions.com)
   - [Domain and Hosting Website](https://greenlithosting.com) -->
 
